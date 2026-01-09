@@ -118,8 +118,7 @@ I love solving **real-world problems** with technology and writing **clean, test
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gaurav-gs18&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" height="160"/>
-  <img src="https://github-readme-streak-stats.demolab.com/?user=gaurav-gs18&theme=tokyonight&hide_border=true&cache_seconds=1800" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=gaurav-gs18&show_icons=true&theme=tokyonight&hide_border=true"/>
 </div>
 
 
