@@ -25,7 +25,7 @@ I love solving **real-world problems** with technology and writing **clean, test
 
 ## 🎯 What I Bring (Impact-Oriented)
 
-✅ Improved app performance by **up to 70%**  
+✅ Improved app performance by **up to 80%**  
 ✅ Reduced API & UI load time by **60%** using pagination  
 ✅ Built **offline-first applications** with background sync  
 ✅ Designed **secure real-time systems** using WebSocket  
@@ -133,16 +133,6 @@ I love solving **real-world problems** with technology and writing **clean, test
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN_URL)
 
 </div>
-
----
-
-## 🎯 Career Focus
-
-🎯 Flutter / Mobile Engineer roles  
-🏗 Product-based & engineering-driven teams  
-🚀 Scalable, high-impact mobile applications  
-
----
 
 > 💡 *I focus on clean code, architecture, and real-world problem solving — not just UI.*
 
