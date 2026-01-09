@@ -1,51 +1,70 @@
-# 👋 Hi, I’m Gaurav Kumar
+<div align="center">
 
-**Mobile Application Developer | Flutter & Android | Clean Architecture | Scalable Systems**
+# 👋 Hi, I'm Gaurav Kumar 🚀  
+### 📱 Mobile Application Developer | Flutter & Android Specialist
 
-I am a results-driven Mobile Application Developer with **3+ years of experience** building **production-grade Flutter and Android applications** for enterprise, banking, agriculture, and government domains.
+<img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=28&center=true&vCenter=true&width=700&height=70&lines=Flutter+%7C+Android+Developer;Clean+Architecture+%7C+MVVM;Scalable+Mobile+Applications;Offline-First+%26+High-Performance+Apps" />
 
-I specialize in **scalable architecture**, **offline-first systems**, and **high-performance mobile applications**, with strong expertise in **Flutter, Kotlin, Clean Architecture, and MVVM**.
-
----
-
-## 🧠 What I Bring
-
-- Designed and delivered **end-to-end mobile solutions** used by thousands of users
-- Improved application performance by **up to 70%** using Isolates and optimized state management
-- Built **offline-first applications** using SQLite with background sync
-- Implemented **server-side pagination**, reducing API load and list rendering time by **60%**
-- Developed **secure real-time communication systems** using WebSocket and encryption
-- Experience working with **enterprise clients and cross-functional teams**
+</div>
 
 ---
 
-## 🛠 Tech Stack
+## 🧑‍💻 About Me
 
-### Mobile Development
-- Flutter (Dart)
-- Android (Kotlin, Java)
+💡 **Results-driven Mobile Application Developer** with **3+ years of experience** building **production-grade Flutter & Android applications** for **enterprise, banking, agriculture, and government domains**.
 
-### Architecture & State Management
-- Clean Architecture
-- MVVM
-- Riverpod, BLoC, Provider, GetX
+🚀 I specialize in:
+- **Clean Architecture & MVVM**
+- **Offline-first systems**
+- **High-performance mobile apps**
+- **Scalable & maintainable codebases**
 
-### Backend & Data
-- REST APIs
-- WebSocket
-- Firebase (FCM, Auth)
-- SQLite (offline-first storage)
+I love solving **real-world problems** with technology and writing **clean, testable, and scalable code**.
 
-### Performance & Background Processing
-- Flutter Isolates
-- Android background services
-- Pagination, lazy loading, caching
+---
 
-### Tools
-- Android Studio
-- VS Code
-- Git, Jira
-- Postman
+## 🎯 What I Bring (Impact-Oriented)
+
+✅ Improved app performance by **up to 70%**  
+✅ Reduced API & UI load time by **60%** using pagination  
+✅ Built **offline-first applications** with background sync  
+✅ Designed **secure real-time systems** using WebSocket  
+✅ Delivered apps used by **thousands of users**  
+✅ Strong collaboration with **cross-functional teams**
+
+---
+
+## 🛠️ Tech Stack
+
+### 📱 Mobile Development
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk)
+
+### 🧱 Architecture & State Management
+![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-FF6B6B?style=for-the-badge)
+![MVVM](https://img.shields.io/badge/MVVM-4CAF50?style=for-the-badge)
+![Riverpod](https://img.shields.io/badge/Riverpod-02569B?style=for-the-badge)
+![BLoC](https://img.shields.io/badge/BLoC-5C2D91?style=for-the-badge)
+![Provider](https://img.shields.io/badge/Provider-2196F3?style=for-the-badge)
+![GetX](https://img.shields.io/badge/GetX-8E24AA?style=for-the-badge)
+
+### 🔗 Backend & Data
+![REST API](https://img.shields.io/badge/REST_API-FF5722?style=for-the-badge)
+![WebSocket](https://img.shields.io/badge/WebSocket-000000?style=for-the-badge&logo=socket.io)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite)
+
+### ⚡ Performance & Background Work
+![Isolates](https://img.shields.io/badge/Flutter_Isolates-02569B?style=for-the-badge)
+![Background Services](https://img.shields.io/badge/Background_Services-3DDC84?style=for-the-badge)
+
+### 🧰 Tools
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
 
 ---
 
@@ -54,71 +73,81 @@ I specialize in **scalable architecture**, **offline-first systems**, and **high
 ### 🔐 SecureChat
 **Enterprise MDM-based secure messaging & calling app**
 
-- End-to-end encrypted chat and calls
-- Real-time communication using WebSocket
-- Offline message sync with SQLite and background Isolates
-- Integrated with enterprise MDM security policies
+🟢 End-to-end encrypted communication  
+🟢 Real-time chat using WebSocket  
+🟢 Offline sync using SQLite + Isolates  
+🟢 Enterprise-grade security (MDM)
 
-**Tech:** Flutter, Provider, Clean Architecture, WebSocket, SQLite, FCM
+**Tech:** Flutter · Provider · Clean Architecture · WebSocket · SQLite · FCM
 
 ---
 
 ### 🌾 Drogo Smart Farming *(Live on Play Store)*
 **Drone-based agriculture management platform**
 
-- Used by farmers and drone pilots
-- GPS tracking, Google Maps, and weather API integration
-- Offline-first architecture with background data sync
+🟢 GPS & Google Maps integration  
+🟢 Weather & location-based insights  
+🟢 Offline-first data sync  
 
-**Tech:** Flutter, Provider, REST APIs, Google Maps, SQLite
+**Tech:** Flutter · Provider · REST APIs · Google Maps · SQLite
 
 ---
 
 ### 📍 Geo-Intelligence
 **Field workforce management application**
 
-- Real-time location tracking and geofencing
-- Server-side pagination for large datasets
-- Offline task sync with conflict resolution
+🟢 Real-time location tracking & geofencing  
+🟢 Server-side pagination (**60% faster lists**)  
+🟢 Offline task sync with conflict handling  
 
-**Tech:** Flutter, GetX, SQLite, Location Services
+**Tech:** Flutter · GetX · SQLite · Location Services
 
 ---
 
 ### 🏗 NovaPlus
-**Land survey and inspection management system**
+**Land survey & inspection management system**
 
-- Role-based access and analytics dashboards
-- Complex data flows handled using Riverpod + MVVM
-- Offline-first system with background processing
+🟢 Role-based access & analytics  
+🟢 Complex workflows using Riverpod + MVVM  
+🟢 Background data processing  
 
-**Tech:** Flutter, Riverpod, Clean Architecture, SQLite
+**Tech:** Flutter · Riverpod · Clean Architecture · SQLite
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=gaurav-gs18&show_icons=true&theme=tokyonight" height="160"/>
   <img src="https://github-readme-streak-stats.demolab.com/?user=gaurav-gs18&theme=tokyonight" height="160"/>
-</p>
+</div>
 
 ---
 
 ## 📫 Connect With Me
 
-- 📧 Email: **gaurav.kumar1280@gmail.com**
-- 💻 GitHub: https://github.com/gaurav-gs18
-- 💼 LinkedIn: *(add your LinkedIn profile link)*
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github)](https://github.com/gaurav-gs18)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail)](mailto:gaurav.kumar1280@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN_URL)
+
+</div>
 
 ---
 
 ## 🎯 Career Focus
 
-- Flutter / Mobile Engineer roles
-- Product-based and engineering-driven teams
-- Building **scalable, high-impact mobile applications**
+🎯 Flutter / Mobile Engineer roles  
+🏗 Product-based & engineering-driven teams  
+🚀 Scalable, high-impact mobile applications  
 
 ---
 
 > 💡 *I focus on clean code, architecture, and real-world problem solving — not just UI.*
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=gaurav-gs18&style=for-the-badge)
+
+</div>
