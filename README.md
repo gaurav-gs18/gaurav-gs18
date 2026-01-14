@@ -114,16 +114,6 @@ I love solving **real-world problems** with technology and writing **clean, test
 **Tech:** Flutter · Riverpod · Clean Architecture · SQLite
 
 ---
-
-//## 📊 GitHub Stats
-
-//<div align="center">
- // <img src="https://github-readme-stats.vercel.app/api?username=gaurav-gs18&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-  
-//</div>
-
-
 ---
 
 ## 📫 Connect With Me
