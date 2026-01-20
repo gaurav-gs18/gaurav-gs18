@@ -1,10 +1,15 @@
 <div align="center">
+
 # 👋 Hi, I'm Gaurav Kumar 🚀  
 ### 📱 Mobile Application Developer | Flutter & Android Specialist
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=28&center=true&vCenter=true&width=700&height=70&lines=Flutter+%7C+Android+Developer;Clean+Architecture+%7C+MVVM;Scalable+Mobile+Applications;Offline-First+%26+High-Performance+Apps" />
+<img
+  src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=28&center=true&vCenter=true&width=700&height=70&lines=Flutter+%7C+Android+Developer;Clean+Architecture+%7C+MVVM;Scalable+Mobile+Applications;Offline-First+%26+High-Performance+Apps"
+  alt="Typing SVG"
+/>
 
 </div>
+
 
 ---
 
