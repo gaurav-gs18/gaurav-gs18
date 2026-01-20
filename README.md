@@ -1,5 +1,4 @@
 <div align="center">
-
 # 👋 Hi, I'm Gaurav Kumar 🚀  
 ### 📱 Mobile Application Developer | Flutter & Android Specialist
 
