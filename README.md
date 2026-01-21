@@ -135,7 +135,7 @@ I love solving **real-world problems** with technology and writing **clean, test
 <div align="center">
 
 <img src="https://komarev.com/ghpvc/?username=gaurav-gs18&style=for-the-badge" />
-<br/>
-<img src="https://img.shields.io/badge/Milestone-2000%2B%20Views-success?style=for-the-badge" />
+<!-- <br/>
+<img src="https://img.shields.io/badge/Milestone-2000%2B%20Views-success?style=for-the-badge" /> -->
 
 </div>
