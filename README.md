@@ -134,6 +134,6 @@ I love solving **real-world problems** with technology and writing **clean, test
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=gaurav-gs18&style=for-the-badge)
+![Profile Views](https://img.shields.io/badge/Profile%20Views-2000%2B-brightgreen?style=for-the-badge)
 
 </div>
